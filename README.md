@@ -40,7 +40,7 @@ It ensures all responses are grounded in real medical knowledge by combining sem
 
 ### 🔹 Architecture Flow
 
-![Technical Architecture](./TECHNICAL%20ARCHITECTURE.png)
+![Technical Architecture](./TECHNICAL%20IMAGE.png)
 
 ```
 📄 Medical PDFs
