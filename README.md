@@ -117,11 +117,11 @@ It ensures all responses are grounded in real medical knowledge by combining sem
 To get started, clone this repository to your local machine using **Git**:
 
 ```bash
-git clone https://github.com/AdritPal08/AI-Medical-Chatbot-Vision-Voice-.git
+git clone https://github.com/AdritPal08/AI-Medical-Chatbot-with-RAG.git
 ```
 Then navigate to the project directory:
 ```bash
-cd AI-Medical-Chatbot-Vision-Voice-
+cd AI-Medical-Chatbot-with-RAG
 ```
 ## 🐍 Setting Up a Python Virtual Environment
 
